@@ -1,9 +1,10 @@
 # codekote
 
-[Заметки](https://github.com/codekote/about/tree/main/notes) — место, где я храню свои заметки и статьи
+[Заметки](https://github.com/codekote/about/tree/main/notes) |
+[Книги](https://github.com/codekote/about/blob/main/books.md) |
+[Проекты](https://github.com/codekote/about/tree/main/pojects) |
+[Обо мне](https://github.com/codekote/about/tree/main/about)
 
-[Книги](https://github.com/codekote/about/blob/main/books.md) — список прочитанных книг
+___
 
-[Проекты](https://github.com/codekote/about/tree/main/pojects) — мои хобби-проекты
-
-[Обо мне](https://github.com/codekote/about/tree/main/about) — обо мне и моём опыте
+Решил отказаться от сайта на Jekyll + GitHub Pages и попытаться хранить всё здесь — прямо в репозитории.
