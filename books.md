@@ -2,7 +2,7 @@
 [🏠 Главная](https://github.com/codekote/about) |
 [Заметки](https://github.com/codekote/about/blob/main/notes.md) |
 Книги |
-[Проекты](https://github.com/codekote/about/blob/main/projects.md) |
+[Проекты](https://github.com/codekote/about/blob/main/projects.md)
 
 ___
 
