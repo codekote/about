@@ -9,7 +9,7 @@ ___
 
 Решил отказаться от сайта на Jekyll + GitHub Pages и попытаться хранить всё здесь — прямо в репозитории.
 
-## Мой стек
+## Навыки
 * STM8, STM32
 * KiCad, Eagle, SprintLayout, IAR, CubeIDE
 * C, JavaScript
