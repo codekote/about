@@ -1,7 +1,7 @@
 # Книги
 [🏠 Главная](https://github.com/codekote/about) |
-Заметки |
-[Книги](https://github.com/codekote/about/blob/main/books.md) |
+[Заметки](https://github.com/codekote/about/blob/main/notes.md) |
+Книги |
 [Проекты](https://github.com/codekote/about/blob/main/projects.md) |
 
 ___
