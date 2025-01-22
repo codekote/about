@@ -10,7 +10,7 @@ ___
 ## Навыки
 * STM8, STM32
 * KiCad, Eagle, SprintLayout, IAR, CubeIDE
-* C, JavaScript
+* C, JavaScript, Python
 * CMSIS, HAL, SPL
 * GPIO, SPI, USB Full Speed, PWM, DMA, TIM, EXTI, DAC.
 * Английский на уровне чтения технической документации.
